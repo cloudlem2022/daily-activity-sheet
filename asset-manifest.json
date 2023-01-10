@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/daily-activity-sheet/static/css/main.99e91d8e.css",
+    "main.js": "/daily-activity-sheet/static/js/main.28b7be21.js",
+    "static/js/787.42e6833b.chunk.js": "/daily-activity-sheet/static/js/787.42e6833b.chunk.js",
+    "static/media/logo.png": "/daily-activity-sheet/static/media/logo.31624673f67e49173705.png",
+    "index.html": "/daily-activity-sheet/index.html",
+    "main.99e91d8e.css.map": "/daily-activity-sheet/static/css/main.99e91d8e.css.map",
+    "main.28b7be21.js.map": "/daily-activity-sheet/static/js/main.28b7be21.js.map",
+    "787.42e6833b.chunk.js.map": "/daily-activity-sheet/static/js/787.42e6833b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.99e91d8e.css",
+    "static/js/main.28b7be21.js"
+  ]
+}
