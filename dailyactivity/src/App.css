@@ -1,0 +1,89 @@
+.inputForm{
+  
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  min-height: 100vh;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  text-align: left;
+  padding: 1rem;
+  
+}
+h2{
+ 
+  
+  color:rgb(10, 10, 10);
+  padding:10px;
+  margin:0
+  
+  
+}
+.App {
+  background: url(logo.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  opacity: 0.9;
+  backface-visibility: hidden;
+  background-color: #fcfaf8;
+  min-height: 50vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: rgb(3, 3, 3);
+  width: 500px;
+  border-width: -10px;
+  border-color: black;
+  border-style: solid;
+  border-radius: 10px;
+  box-shadow: 13px 13px 20px #94897f, -13px -13px 20px rgb(100, 97, 94);
+}
+
+.text{
+  margin:8px 0;
+  margin-left:10px;
+  width:50%;
+  border-radius: 3px;
+  height:25px;
+  font-weight: bold;
+  box-shadow: inset 8px 8px 8px #ece6e0, inset -8px -8px 8px rgb(228, 222, 217);
+
+}
+.txt{
+  
+  width:70%;
+  border-radius: 3px;
+  height:50px;
+  font-weight: bold;
+  box-shadow: inset 8px 8px 8px #f5efea, inset -8px -8px 8px rgb(238, 230, 222);
+
+}
+
+
+.submit{
+  
+  margin:10px;
+  position: relative;
+  
+  font-weight: 700;
+  font-size: 14px;
+  outline: none;
+  border: none;
+  cursor: pointer;
+  width: 50%;
+  height: 60px;
+  border-radius: 30px;
+  font-size: 20px;
+  font-weight: 700;
+  font-family: "lato", sans-serif;
+  color: #0a0a0a;
+  text-align: center;
+  background-color: rgb(221, 146, 6);
+  box-shadow:  3px 3px 8px #2c2a29, -3px -3px 8px rgb(36, 35, 35);
+  
+}
+.submit:hover, .submit:active {
+  font-size: 150%;
+}
